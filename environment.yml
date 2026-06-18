@@ -17,3 +17,9 @@ dependencies:
   - pip:
       - OpenVisus
       - openvisuspy
+      - xarray
+      - netcdf4
+      - intake
+      - intake-nexgddp
+      - cartopy 
+      
