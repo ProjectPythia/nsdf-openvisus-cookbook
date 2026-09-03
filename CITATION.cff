@@ -7,6 +7,6 @@ authors:
     orcid: https://orcid.org/0009-0001-5843-2098
     affiliation: CEDMAV, University at Utah  
   - name: "NSDF-OpenVISUS cookbook contributors"
-    website: "https://github.com/ProjectPythia/cookbook-template/graphs/contributors"
+    website: "https://github.com/ProjectPythia/nsdf-openvisus-cookbook/graphs/contributors"
 title: "NSDF-OpenVISUS Cookbook"
 abstract: "A sample cookbook description."

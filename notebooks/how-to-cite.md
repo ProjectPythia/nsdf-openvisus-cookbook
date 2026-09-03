@@ -4,4 +4,4 @@ The material in this Project Pythia Cookbook is licensed for free and open consu
 
 The source code for the book is [released on GitHub](https://github.com/ProjectPythia/nsdf-openvisus-cookbook) and archived on Zenodo. This DOI will always resolve to the latest release of the book source:
 
-[![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
+[![DOI](https://zenodo.org/badge/1034044401.svg)](https://zenodo.org/badge/latestdoi/1034044401)
