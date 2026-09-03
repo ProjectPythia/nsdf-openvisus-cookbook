@@ -1,6 +1,11 @@
 thumbnail: thumbnail.png
 tags:
   domains:
-    - sampledomain
+    - NSDF
+    - OpenVisus
+    - Petascale data access
+   
   packages:
-    - samplepackage
+    - openvisuspy
+    - OpenVisus
+  
