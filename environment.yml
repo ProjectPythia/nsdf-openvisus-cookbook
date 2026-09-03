@@ -8,18 +8,18 @@ dependencies:
   - jupyterlab-myst
   - pip
   - matplotlib
-  - bokeh
-  - panel
+  - bokeh=3.9.2
+  - panel=1.9.4
   - xmltodict
   - colorcet
   - boto3
   - basemap
   - pip:
-      - OpenVisus
-      - openvisuspy
-      - xarray
+      - OpenVisus==2.2.141
+      - openvisuspy==1.0.71
+      - xarray==2026.7.0
       - netcdf4
-      - intake
-      - intake-nexgddp
+      - intake==2.0.9
+      - intake-nexgddp==1.0.9
       - cartopy 
       
