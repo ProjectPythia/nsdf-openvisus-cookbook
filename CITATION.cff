@@ -5,8 +5,8 @@ authors:
   - family-names: Panta
     given-names: Aashish
     orcid: https://orcid.org/0009-0001-5843-2098
-    affiliation: CEDMAV, University at Utah  
+    affiliation: Scientific Computing and Imaging Institute, University of Utah
   - name: "NSDF-OpenVISUS cookbook contributors"
-    website: "https://github.com/ProjectPythia/cookbook-template/graphs/contributors"
+    website: "https://github.com/sci-visus/openvisuspy/graphs/contributors"
 title: "NSDF-OpenVISUS Cookbook"
-abstract: "A sample cookbook description."
+abstract: "NSDF-OpenVISUS Cookbook provides practical, reproducible notebooks for accessing, subsetting, and visualizing large-scale scientific datasets using OpenVISUS and Pelican-based cloud data delivery. The materials demonstrate multiresolution data queries, region- and depth-specific exploration workflows, and publication-ready visualization patterns for ocean and atmosphere use cases, enabling researchers to quickly adapt the examples to their own data-intensive science applications."
