@@ -4,8 +4,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/ProjectPythia/nsdf-openvisus-cookbook)
 [![Binder](https://img.shields.io/badge/Binder-Launch-fb6a4a?logo=jupyter)](https://binder.projectpythia.org/v2/gh/ProjectPythia/nsdf-openvisus-cookbook/main?labpath=notebooks)
+[![DOI](https://zenodo.org/badge/1034044401.svg)](https://doi.org/10.5281/zenodo.22288746)
 [![Project Pythia](https://img.shields.io/badge/Project%20Pythia-Cookbook-2a7fff)](https://projectpythia.org/nsdf-openvisus-cookbook)
-
 This Project Pythia Cookbook introduces practical workflows for exploring large-scale scientific datasets with OpenViSUS. The material focuses on interactive, multiresolution access patterns that let you inspect ocean, atmosphere, and related simulation data efficiently, whether you are working on a laptop, in the cloud, or alongside larger HPC resources.
 
 The notebooks are designed as a starting point for scientists who need reproducible examples for data access, subsetting, and visualization. They also provide context for how the NSDF-OpenVISUS stack supports responsive analysis of datasets that are too large for conventional local workflows.
