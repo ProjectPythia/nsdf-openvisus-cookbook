@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:3000/sitemap_style.xsl" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://localhost:3000</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/how-to-cite</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/introduction-to-nsdf-openvisus</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/atmosphere-llc2160-visualization</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/ocean-llc2160-visualization</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/ocean-llc4320-visualization</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/scivis-contest-2026</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/acknowledgements</loc>
+  </url>
+</urlset>
